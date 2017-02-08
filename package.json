@@ -1,0 +1,23 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "express learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guozefei/express-learning.git"
+  },
+  "keywords": [
+    "express",
+    "learning"
+  ],
+  "author": "ZefeiGuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guozefei/express-learning/issues"
+  },
+  "homepage": "https://github.com/guozefei/express-learning#readme"
+}
